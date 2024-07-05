@@ -13,5 +13,6 @@ Learning flutter is the base of this project this could contain errors..
  3RD-Login Screen / register (using firebase) 
  4TH-Homepage 
 
+ # SCHEDULE
  Start date : 05/07/2024
  Conclusion date 05/09/2024
