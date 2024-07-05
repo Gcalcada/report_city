@@ -1,20 +1,17 @@
 <<<<<<< HEAD
-# report_city_1
+#REPORT CITY 
 
-A new Flutter project.
+Description of the project:.............................................................................................._CONFIDENCIAL_
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Learning flutter is the base of this project this could contain errors..
 
-A few resources to get you started if this is your first Flutter project:
+#Goals UI 
+ 1ST-Loading Screen 
+ 2ND-Onboarding 
+ 3RD-Login Screen / register (using firebase) 
+ 4TH-Homepage 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# report_city
->>>>>>> 2253766c2d59de2de80f6078bf8ef86f2b58cab1
+ Start date : 05/07/2024
+ Conclusion date 05/09/2024
